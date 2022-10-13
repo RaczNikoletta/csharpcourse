@@ -19,6 +19,27 @@ Learning C# basics via completing small projects like writing functions for maki
 ![image](https://user-images.githubusercontent.com/44648333/194241916-503b25fc-35f5-4056-b41e-b1afb825d7ae.png)
 ![image](https://user-images.githubusercontent.com/44648333/194242822-89049562-3ac3-4cca-831f-b668ed08999a.png)
 
+## 10.13 
+[Exercism] (https://exercism.org/tracks/csharp/exercises)
+
+CsharpCourse5thLesson/CarsAssemble.cs: Numbers, arithmetic, if statements in C#
+
+CsharpCourse5thLesson/LogLevels.cs: Formating strings using log
+
+CsharpCourse5thLesson/RollTheDie.cs: Randomness, how to generate integers
+
+CsharpCourse5thLesson/DifferenceOfSquares.cs: Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
+
+CsharpCourse5thLesson/Leap.cs: Using DateTime.isLeapYear
+
+![image](https://user-images.githubusercontent.com/44648333/195530371-a5d8e466-7208-4f75-bc49-cc1dfe7c2d6b.png)
+
+
+
+
+
+
+
 
 
 
