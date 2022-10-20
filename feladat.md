@@ -1,9 +1,12 @@
 ## 1-2. feladat, szám és szó lista létrehozása:
 
+Megoldás List<int> használatával:
+
 List<int> numberList = new List<int>() { 8, 37, 11, 98, 95, 43, 11, 98, 8, 8, 37 };
 List<string> stringList = new List<string>() { "fa", "kép", "daru", "fa", "alma", "doboz", "kép", "doboz", "fa" };
   
 ## 3-4 feladat: Írd ki a képernyőre a 20-nál nagyobb számokat, minden számról írasd ki, hányszor fordul elő a listában:
+Foreach keresés a 20-nál nagyobb számokra és Dictionary<int,int> a Key a szám value az előfordulásának száma
   
  Console.WriteLine("Task 3\n");
            foreach (var num in numberList)
@@ -29,6 +32,8 @@ List<string> stringList = new List<string>() { "fa", "kép", "daru", "fa", "alma
         
         }
   ## 6. feladat átlagnál kisebb számok kiíratása:
+  
+  Átlag megállapítása a List.Average() használatával
 
 Console.WriteLine("Task 6\n Below the average: ");
         double avg = numberList.Average();
