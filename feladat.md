@@ -3,7 +3,7 @@
 List<int> numberList = new List<int>() { 8, 37, 11, 98, 95, 43, 11, 98, 8, 8, 37 };
 List<string> stringList = new List<string>() { "fa", "kép", "daru", "fa", "alma", "doboz", "kép", "doboz", "fa" };
   
-##3-4 feladat: Írd ki a képernyőre a 20-nál nagyobb számokat, minden számról írasd ki, hányszor fordul elő a listában:
+## 3-4 feladat: Írd ki a képernyőre a 20-nál nagyobb számokat, minden számról írasd ki, hányszor fordul elő a listában:
   
  Console.WriteLine("Task 3\n");
            foreach (var num in numberList)
