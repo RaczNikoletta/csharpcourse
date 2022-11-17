@@ -1,4 +1,4 @@
-# Pascal Case
+# PascalCase
 for naming class record or struct like
 
 public class DataService 
