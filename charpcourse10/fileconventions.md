@@ -1,4 +1,4 @@
-#Pascal Case
+# Pascal Case
 for naming class record or struct like
 
 public class DataService 
@@ -22,7 +22,7 @@ public record PhysicalAddress(
   
   }
   
-  #camelCase
+  # camelCase
   internal fields and prefix them with _
   
   for example
@@ -52,7 +52,7 @@ public record PhysicalAddress(
   }
   
   
- #snake_case
+ # snake_case
  Not used in C# but in python is widely used for
   naming any variables
   
