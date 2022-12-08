@@ -1,5 +1,19 @@
 # csharpcourse
 
+## 12.08 Összefoglalás
+
+-  [x] automatikus szemétgyűjtő https://github.com/RaczNikoletta/csharpcourse/tree/master/countObjects
+ - [x] github - mappákba rendezés - mappák heti lebontásban a grafikus felület témakörig
+ 
+ - [x] nyelvi elemek https://github.com/RaczNikoletta/csharpcourse/blob/master/charpcourse10/fileconventions.md
+ 
+ - [x] fájlkezelés json, xml, text, csv, bin - https://github.com/RaczNikoletta/csharpcourse/tree/master/Csharpweek8 és   https://github.com/RaczNikoletta/csharpcourse/tree/master/charpcourse10
+ 
+ - [x] grafikus felület - random user és adatai https://github.com/RaczNikoletta/csharpcourse-week11
+ - [x] adatbázis (SQLight, MariaDB) https://github.com/RaczNikoletta/csharpcourse-week11
+ - [ ] beadandó - folyamatban- https://github.com/RaczNikoletta/tictactoecsharp
+
+
 ## 09.22 Introduction to github:
 ![image](https://user-images.githubusercontent.com/44648333/191684037-999401a0-3186-44ba-aaea-bc38a6de253c.png)
 .NET MAUI
