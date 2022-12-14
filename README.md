@@ -11,7 +11,7 @@
  
  - [x] grafikus felület - random user és adatai https://github.com/RaczNikoletta/csharpcourse-week11
  - [x] adatbázis (SQLight, MariaDB) https://github.com/RaczNikoletta/csharpcourse-week11
- - [x] beadandó  https://github.com/RaczNikoletta/tictactoecsharp
+ - [x] beadandó  https://github.com/RaczNikoletta/tictactoecsharp - tic-tac-toe logic: https://www.youtube.com/watch?v=205ZVRsyXVo&t=768s
 
 
 ## 09.22 Introduction to github:
